@@ -1,6 +1,6 @@
 # Ex.No.7 – Develop a Prompt-Based Application using ChatGPT
 
-**Date:*12/10/2025*  
+**Date:*16/10/2025*  
 **Register No.:*212224110055*  
 
 ---
@@ -149,11 +149,16 @@ update_preferences("preferred_time", "morning")
 get_suggestion()
 
 ```
+--------------------------------------------------------------
+## Output website:
 
+link: https://kindred-day-guide.lovable.app
 
-# -------------------------------------------------------------
-# Conclusion: Prompt-Based Application using ChatGPT
-# -------------------------------------------------------------
+--------------------------------------------------------------
+
+ -------------------------------------------------------------
+### Conclusion: Prompt-Based Application using ChatGPT
+ -------------------------------------------------------------
 
 """
 In this experiment, a prompt-based personal productivity assistant 
@@ -179,4 +184,4 @@ Hence, the experiment achieved its objectives and successfully demonstrated
 How prompt-based systems can serve as intelligent assistants 
 that enhance productivity, personalization, and user engagement.
 """
-# -------------------------------------------------------------
+ -------------------------------------------------------------
